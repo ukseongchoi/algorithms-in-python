@@ -1,4 +1,5 @@
 #단어공부
+
 wold = input()
 wold_s = wold.lower()
 
